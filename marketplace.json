@@ -22,7 +22,7 @@
     "redis_features": ["BloomFilter", "CuckooFilter","Count-Min-Sketch","Top-K"],
     "redis_modules": ["RedisBloom","RedisJSON"],
     "app_image_urls": ["https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/redis-plus-plus-modules.png","https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/class_diagram.png"],
-    "youtube_url": "",
+    "youtube_url": "https://www.youtube.com/watch?v=jwUF3Ddj4lQ",
     "special_tags": ["Hackathon"],
     "verticals": [],
     "markdown": "https://raw.githubusercontent.com/redis-developer/redis-plus-plus-modules/master/README.md"
