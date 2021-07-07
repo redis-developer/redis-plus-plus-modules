@@ -1,22 +1,29 @@
 {
     "app_name": "redis-plus-plus-modules",
-    "description": "A C++ API for redis modules, based on redis-plus-plus and hiredis.",
-    "hidden": "true",
-    "rank": "21",
+    "description": "A C++ API for redis modules, based on redis-plus-plus and hiredis",
+    "rank": "290",
     "type": "Building Block",
     "contributed_by": "Community",
-    "repo_url": "https://github.com/wingunder/redis-plus-plus-modules",
-    "download_url": "https://github.com/wingunder/redis-plus-plus--modules/archive/refs/heads/master.zip",
-    "hosted_url": "https://github.com/wingunder/redis-plus-plus-modules",
-    "quick_deploy": "false",
-    "deploy_buttons": [],
+    "repo_url": "https://github.com/redis-developer/redis-plus-plus-modules",
+    "download_url": "https://github.com/redis-developer/redis-plus-plus--modules/archive/refs/heads/master.zip",
+    "hosted_url": "https://github.com/redis-developer/redis-plus-plus-modules",
+    "quick_deploy": "true",
+    "deploy_buttons": [
+    {
+      "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-plus-plus-modules"
+    },
+   
+    {
+      "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/redis-plus-plus-modules"
+    }
+    ],
     "language": ["C++"],
     "redis_commands": ["BF.RESERVE","BF.ADD","BF.MADD","BF.INSERT","BF.EXISTS","BF.MEXISTS","BF.SCANDUMP","BF.LOADCHUNK","BF.INFO","CF.RESERVE","CF.ADD","CF.ADDNX","CF.INSERT","CF.INSERTNX","CF.EXISTS","CF.DEL","CF.COUNT","CF.SCANDUMP","CF.LOADCHUNK","CF.INFO","CMS.INITBYDIM","CMS.INITBYPROB","CMS.INCRBY","CMS.QUERY","CMS.MERGE","CMS.INFO","TOPK.RESERVE","TOPK.ADD","TOPK.INCRBY","TOPK.QUERY","TOPK.COUNT","TOPK.LIST","TOPK.INFO","JSON.DEL","JSON.GET","JSON.MGET","JSON.SET","JSON.TYPE","JSON.NUMINCRBY","JSON.NUMMULTBY","JSON.STRAPPEND","JSON.STRLEN","JSON.ARRAPPEND","JSON.ARRINDEX","JSON.ARRINSERT","JSON.ARRLEN","JSON.ARRPROP","JSON.ARRTRIM","JSON.OBJKEYS","JSON.OBJLEN","JSON.DEBUG","JSON.FORGET","JSON.RESP"],
-    "redis_features": ["modules", "module API"],
-    "redis_modules": ["RedisBloom","BloomFilter","CuckooFilter","Count-Min-Sketch","Top-K","RedisJSON"],
-    "app_image_urls": ["https://github.com/wingunder/redis-plus-plus-modules/blob/master/images/redis-plus-plus-modules.png","https://github.com/wingunder/redis-plus-plus-modules/blob/master/images/class_diagram.png"],
+    "redis_features": ["BloomFilter", "CuckooFilter","Count-Min-Sketch","Top-K"],
+    "redis_modules": ["RedisBloom","RedisJSON"],
+    "app_image_urls": ["https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/redis-plus-plus-modules.png","https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/class_diagram.png"],
     "youtube_url": "",
     "special_tags": ["Hackathon"],
     "verticals": [],
-    "markdown": "https://github.com/wingunder/redis-plus-plus-modules/blob/master/README.md"
+    "markdown": "https://raw.githubusercontent.com/redis-developer/redis-plus-plus-modules/master/README.md"
 }
