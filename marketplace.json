@@ -21,7 +21,7 @@
     "redis_commands": ["BF.RESERVE","BF.ADD","BF.MADD","BF.INSERT","BF.EXISTS","BF.MEXISTS","BF.SCANDUMP","BF.LOADCHUNK","BF.INFO","CF.RESERVE","CF.ADD","CF.ADDNX","CF.INSERT","CF.INSERTNX","CF.EXISTS","CF.DEL","CF.COUNT","CF.SCANDUMP","CF.LOADCHUNK","CF.INFO","CMS.INITBYDIM","CMS.INITBYPROB","CMS.INCRBY","CMS.QUERY","CMS.MERGE","CMS.INFO","TOPK.RESERVE","TOPK.ADD","TOPK.INCRBY","TOPK.QUERY","TOPK.COUNT","TOPK.LIST","TOPK.INFO","JSON.DEL","JSON.GET","JSON.MGET","JSON.SET","JSON.TYPE","JSON.NUMINCRBY","JSON.NUMMULTBY","JSON.STRAPPEND","JSON.STRLEN","JSON.ARRAPPEND","JSON.ARRINDEX","JSON.ARRINSERT","JSON.ARRLEN","JSON.ARRPROP","JSON.ARRTRIM","JSON.OBJKEYS","JSON.OBJLEN","JSON.DEBUG","JSON.FORGET","JSON.RESP"],
     "redis_features": ["BloomFilter", "CuckooFilter","Count-Min-Sketch","Top-K"],
     "redis_modules": ["RedisBloom","RedisJSON"],
-    "app_image_urls": ["https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/redis-plus-plus-modules.png","https://github.com/redis-developer/redis-plus-plus-modules/blob/master/images/class_diagram.png"],
+    "app_image_urls": ["https://raw.githubusercontent.com/redis-developer/redis-plus-plus-modules/master/images/redis-plus-plus-modules.png","https://raw.githubusercontent.com/redis-developer/redis-plus-plus-modules/master/images/class_diagram.png"],
     "youtube_url": "https://www.youtube.com/watch?v=jwUF3Ddj4lQ",
     "special_tags": ["Hackathon"],
     "verticals": [],
