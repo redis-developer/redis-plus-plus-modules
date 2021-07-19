@@ -7,7 +7,7 @@
     "repo_url": "https://github.com/redis-developer/redis-plus-plus-modules",
     "download_url": "https://github.com/redis-developer/redis-plus-plus--modules/archive/refs/heads/master.zip",
     "hosted_url": "https://github.com/redis-developer/redis-plus-plus-modules",
-    "quick_deploy": "true",
+    "quick_deploy": "false",
     "deploy_buttons": [
     {
       "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/redis-plus-plus-modules"
