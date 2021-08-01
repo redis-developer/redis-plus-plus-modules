@@ -5,6 +5,7 @@
     "type": "Building Block",
     "contributed_by": "Community",
     "repo_url": "https://github.com/redis-developer/redis-plus-plus-modules",
+    "preview_image_url": "https://raw.githubusercontent.com/redis-developer/redis-plus-plus-modules/master/images/app_preview_image.png",
     "download_url": "https://github.com/redis-developer/redis-plus-plus--modules/archive/refs/heads/master.zip",
     "hosted_url": "https://github.com/redis-developer/redis-plus-plus-modules",
     "quick_deploy": "false",
