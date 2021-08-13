@@ -1,5 +1,5 @@
 {
-    "app_name": "redis-plus-plus-modules",
+    "app_name": "Redis Plus Plus",
     "description": "A C++ API for redis modules, based on redis-plus-plus and hiredis",
     "rank": "290",
     "type": "Building Block",
