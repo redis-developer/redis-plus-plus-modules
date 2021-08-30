@@ -8,8 +8,6 @@
 - [APIs](#apis)
 - [TODO](#todo)
 - [Contributing](#contributing)
-- [Authors](#authors)
-- [Copyright](#copyright)
 - [History](#history)
 - [Links](#links)
 
