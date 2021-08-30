@@ -359,10 +359,7 @@ Some ideas and code originate from
 [sewenew](https://github.com/sewenew) and his amazing
 [redis-plus-plus](https://github.com/sewenew/redis-plus-plus) library.
 
-## Copyright
 
-This software is copyrighted under [Apache License
-V2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 
 ## History
